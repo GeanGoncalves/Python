@@ -1,3 +1,5 @@
+# Class Restaurante
+
 from avaliacao import Avaliacao
 
 class Restaurante:  
